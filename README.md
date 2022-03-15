@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Zenapp Company
+- 🔭 I’m currently working on Robust Tech House
 - 🌱 I’m currently learning Ruby, Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python, Golang language
